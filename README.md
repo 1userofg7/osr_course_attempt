@@ -1,7 +1,7 @@
 # osr_course_attempt
 Files for osr_course_attempt:
 
-1.1 fk2dof
+1.1 fk2dof\n
 1.2 fkdenso
 1.3 ik2dof
 
