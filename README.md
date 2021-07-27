@@ -26,6 +26,7 @@ Note:
 
 4.1:
 -finds dimension of glass plane in 2d space
+-creates .txt file for each image
 -requires many different parameters to be changed for each image
 -consider other methods (logic/function) to find sides of plane
 4.2:
